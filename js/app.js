@@ -4,6 +4,11 @@ const projects = [{
     thumbnail: "https://codepen.io/Irradiated58/pen/oNLwWxQ/image/large.png",
 },
 {
+    name: "Rock Paper Scissors Game",
+    url: "https://dvalo.github.io/rock-paper-scissors/",
+    thumbnail: "https://codepen.io/Irradiated58/pen/yLJvbVZ/image/large.png",
+},
+{
     name: "Markdown Previewer",
     url: "https://dvalo.github.io/markdown-previewer/",
     thumbnail: "https://codepen.io/Irradiated58/pen/BazWoOM/image/large.png",
