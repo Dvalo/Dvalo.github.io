@@ -1,4 +1,9 @@
 const projects = [{
+    name: "COVID-19 Statistics",
+    url: "https://dvalo.github.io/covid-statistics/",
+    thumbnail: "https://codepen.io/Irradiated58/pen/QWEEYyY/image/large.png",
+},
+{
     name: "JavaScript Calculator",
     url: "https://dvalo.github.io/javascript-calculator/",
     thumbnail: "https://codepen.io/Irradiated58/pen/oNLwWxQ/image/large.png",
@@ -29,9 +34,14 @@ const projects = [{
     thumbnail: "https://codepen.io/Irradiated58/pen/mdEJexp/image/large.png",
 },
 {
-    name: "COVID-19 Statistics",
-    url: "https://dvalo.github.io/covid-statistics/",
-    thumbnail: "https://codepen.io/Irradiated58/pen/QWEEYyY/image/large.png",
+    name: "Find The Country",
+    url: "https://dvalo.github.io/find-the-country/",
+    thumbnail: "https://codepen.io/Irradiated58/pen/ZEOdZJb/image/large.png",
+},
+{
+    name: "Guess The Flag",
+    url: "https://dvalo.github.io/guess-the-flag/",
+    thumbnail: "https://codepen.io/Irradiated58/pen/RwRzOpM/image/large.png",
 },
 {
     name: "Tip Calculator",
