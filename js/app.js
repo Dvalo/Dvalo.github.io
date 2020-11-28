@@ -112,7 +112,7 @@ function populateProjects() {
     for (let i = 0; i < projects.length; i++) {
         $('.projects-wrap').append(`
         <a href="${projects[i].url}" target="_blank" class="project project-tile">
-            <img class="project-image" src="${projects[i].thumbnail}">
+            <img class="project-image" src="${projects[i].thumbnail}" loading="lazy" width="570" height="330">
             <div class="project-description">
                 <div class="project-title">
                     <span class="code">&lt;</span>${projects[i].name}
